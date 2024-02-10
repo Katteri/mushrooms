@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34825c7ae8199aa44bb46df24f97dea9, type: 3}
+  m_Name: Bone dust
+  m_EditorClassIdentifier: 
+  Id: 0
+  prefab: {fileID: 3375974142630552692, guid: ef93aa4d1d85d7244b900b460d2b1803, type: 3}
+  type: 2
+  description: 
+  helpTime: 0
